@@ -4,7 +4,7 @@
 ![Version](https://img.shields.io/badge/version-0.1.0-green.svg)
 ![Status](https://img.shields.io/badge/status-Concluído-brightgreen.svg)
 
-Transforme sinais ruidosos de Mini e Micro Geração Distribuída Fotovoltaica (MMGD-FV) em curvas suaves.
+Transformando curvas ruidosas de Mini e Micro Geração Distribuída Fotovoltaica (MMGD-FV) em curvas suaves.
 
 ## Índice
 
@@ -15,15 +15,14 @@ Transforme sinais ruidosos de Mini e Micro Geração Distribuída Fotovoltaica (
 - [Instalação](#instalação)
 - [Uso](#uso)
 - [Licença](#licença)
-- [Contato](#contato)
 
 
 
 ## Contexto
 
-Em projetos de Mini e Micro Geração Distribuída Fotovoltaica (MMGD-FV), frequentemente você enfrenta a ausência de medições diretas de geração fotovoltaica. Para estimar a potência gerada em cada horário do dia, utiliza dados verificados de irradiação solar provenientes de estações meteorológicas, combinados com o montante de potência instalada.
+Para os projetos de Mini e Micro Geração Distribuída Fotovoltaica (MMGD-FV), muitas empresas de distribuição de energia não têm acesso às medições diretas da maior parte dessas instalações. Para estimar a potência gerada em cada horário do dia, em geral, utiliza-se dados verificados de irradiação solar provenientes de estações meteorológicas, combinados com o montante de potência instalada.
 
-No entanto, esses dados de irradiação solar muitas vezes contêm falhas devido a problemas na aquisição ou ao ruído inerente aos sistemas de sensoriamento. Isso resulta em estimativas insatisfatórias da geração fotovoltaica.
+No entanto, esses dados de irradiação solar muitas vezes contêm falhas devido a problemas na aquisição ou ao ruído inerente aos sistemas de sensoriamento. Isso resulta em estimativas insatisfatórias dessa geração fotovoltaica.
 
 Se você está enfrentando esses desafios, conheça uma alternativa que **pode solucionar** esses problemas: **GDfilter**.
 
@@ -148,4 +147,3 @@ Repositório do projeto: [https://github.com/onsbr/gd-filter](https://github.com
 
 
 ---
-
